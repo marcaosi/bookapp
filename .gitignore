@@ -1,0 +1,6 @@
+/bookapi/vendor
+/bookapi/.idea
+/bookapiHomestead.json
+/bookapiHomestead.yaml
+/bookapi.env
+/bookapi.phpunit.result.cache
